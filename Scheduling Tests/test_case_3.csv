@@ -1,0 +1,7 @@
+Pid,Arrival Time,Total CPU Time,I/O Frequency,I/O Duration,Priority,Memory,
+1001,0,200,201,0,3,0,CPU
+1002,0,80,10,30,1,0,IO
+1003,80,40,5,40,1,0,IO
+1004,490,20,5,50,1,0,IO
+1005,700,80,50,5,2,0,CPU
+1006,700,60,20,80,1,0,IO

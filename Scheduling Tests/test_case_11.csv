@@ -1,0 +1,7 @@
+Pid,Arrival Time,Total CPU Time,I/O Frequency,I/O Duration,Priority,Memory,
+1001,0,110,100,30,2,0,equal
+1002,2,220,150,40,2,0,more cpu
+1003,50,180,190,0,1,0,cpu
+1004,200,200,210,0,1,0,cpu
+1005,300,30,6,50,1,0,io
+1006,600,200,80,20,2,0,cpu
